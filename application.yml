@@ -10,4 +10,4 @@ spring:
       keySerializer: org.springframework.kafka.support.serializer.JsonSerializer
       valueSerializer: org.springframework.kafka.support.serializer.JsonSerializer
   mpms:
-    item: spring cloud test
+    item: spring cloud test Git Repository
