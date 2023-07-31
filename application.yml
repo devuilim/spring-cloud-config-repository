@@ -10,4 +10,4 @@ spring:
       keySerializer: org.springframework.kafka.support.serializer.JsonSerializer
       valueSerializer: org.springframework.kafka.support.serializer.JsonSerializer
   mpms:
-    item: spring cloud test Git Repository update after
+    item: '{cipher}AQAO7tXjPVB7zQDggpddlze6v6V0p20LfI/flSN4X7WzCgcbYreD0PDM5mjjDjQoyp8vUQpNJF3owlGlTGvZa8gGlJP1qltTblbXWNzXB5D/8OS1CTs28jsk0Kdr/cb81yWuY4LxkK4C5+oToSRsFacKf4ogAI3duXga8bXtLb0Cz9WV/4URHyRQw4LBGqXdSF7bBdwAJnag/4uelR4z2OFK579N70T2BpWR9kvhJMIBs1MgwbWwsoCfgD712Z16mr1US12AucpV6MPOECqMLpQiR7rf9+dJjBHifg1lTV962wKaadM4YKK4QFO3h+HsoH5gpN+lAY2UXJ0SeH3v/M8lgcrg8TAI84EQOIJMYN94yojPhS+cA1d0rnGQ+Er9XN0='
